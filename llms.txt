@@ -1,0 +1,24 @@
+# Faraz Ahammed CM
+> Class 11 student and non-profit ed-tech founder from Kerala, India. Founder of FRZ Generations (25+ free student tools) and chief architect of ONE H OS, a class ERP.
+
+- [Official photo](https://farazcm.netlify.app/images/faraz-ahammed-cm-founder-frz-generations.png): Faraz Ahammed CM, CEO and founder of FRZ Generations
+- [LinkedIn](https://www.linkedin.com/in/frzcm): professional profile
+- [Official site](https://support-frz.netlify.app): FRZ Generations
+- [Portfolio](https://farazcm.netlify.app/): bio, journey, achievements, ventures, skills, FAQ, contact
+- [Stories](https://farazcm.netlify.app/stories/): long-form stories
+- [From Average Student to Founder: Faraz Ahammed CM's Story](https://farazcm.netlify.app/stories/from-average-student-to-school-topper.html): How Faraz Ahammed CM of Kerala went from an unnoticed average student to a 90% SSLC scorer and the founder of FRZ Generations.
+- [CMRHSS Chennamangallur School Review by a Former Student (Class 9)](https://farazcm.netlify.app/stories/cmrhss-chennamangallur-school-review.html): A first-hand review of CMRHSS Chennamangallur: teachers, programs, ranking, campus and culture, by a former Class 9 student.
+- [How FRZ Generations Started: A Free, Non-Profit Ed-Tech Brand from Kerala](https://farazcm.netlify.app/stories/how-frz-generations-started-non-profit-ed-tech.html): The story of how Faraz Ahammed CM turned a set of personal study notes into FRZ Generations, a free non-profit ed-tech brand with 25+ tools.
+- [FRZ Public Library: A Free Notes Platform for Kerala Students](https://farazcm.netlify.app/stories/frz-public-library-notes-platform-kerala-students.html): FRZ Public Library is a free notes and papers archive for SSLC and Plus One Humanities students, built by Faraz Ahammed CM under FRZ Generations.
+- [How I Built the FRZ Ecosystem with Prompt Engineering (No Coding)](https://farazcm.netlify.app/stories/how-i-built-frz-with-prompt-engineering.html): Faraz Ahammed CM explains how he built 30+ websites for FRZ Generations through prompt engineering and AI, without writing code himself.
+- [FRZ Games: Free Browser Games Built with AI for Students](https://farazcm.netlify.app/stories/frz-games-free-student-games.html): FRZ Games is a free collection of browser games built with AI by Faraz Ahammed CM and added to the FRZ Generations brand.
+- [FRZ OS: The School Software Division of FRZ Generations](https://farazcm.netlify.app/stories/frz-os-school-software-division.html): FRZ OS is the school software division of FRZ Generations, covering SchoolSync, ONE H OS, FRZ EC election software and the discontinued Freezy OS.
+- [PDF Express: A Free, Open-Source PDF App Made for the Kerala Government](https://farazcm.netlify.app/stories/pdf-express-free-open-source-kerala-government.html): PDF Express is a free, MIT-licensed PDF app built by Faraz Ahammed CM for the Kerala government, available at zero rupees.
+
+Upcoming: a Class 11 Humanities story is in the queue.
+
+Skills: prompt engineering (built the whole FRZ ecosystem without hand-written code), script writing, Microsoft Excel/Word/PowerPoint, leadership.
+
+Key facts: CEO and founder of FRZ Generations (non-profit ed-tech, founded 2025, 25+ free tools); founder of HF Media Malayalam. FRZ Public Library, FRZ Games, FRZ OS (ONE H OS, SchoolSync, FRZ EC), PDF Express (free, MIT licence). Personal story is on request in /stories/.
+
+Contact: ceo.frz@gmail.com, +919037203595, https://www.linkedin.com/in/frzcm, https://www.instagram.com/farazcm.dev
